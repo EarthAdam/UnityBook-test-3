@@ -1,6 +1,6 @@
 # Summary
 
-# \[Part I\]\(README.md\)
+# \[Part I\]\(part1/README.md\)
 
 [Introduction](README.md)
 
